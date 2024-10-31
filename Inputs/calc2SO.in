@@ -1,0 +1,12 @@
+NAME    	calc1
+DT  		0.05
+XSIZE		10.0
+DX  		0.01
+CYCLES  	2000
+NS      	500
+SIGMAS		0.5
+SIGMAA		0.5
+X_0  		0.5
+TAU_0		10
+EPSILON		1.00
+T_INIT		0.00316
